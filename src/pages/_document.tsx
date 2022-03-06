@@ -13,6 +13,10 @@ function MyDocument() {
           rel="stylesheet"
           href="https://cdn.jsdelivr.net/npm/bulma@0.9.3/css/bulma.min.css"
         />
+        <link
+          rel="stylesheet"
+          href="https://jenil.github.io/bulmaswatch/darkly/bulmaswatch.min.css"
+        />
       </Head>
       <body>
         <Main />
