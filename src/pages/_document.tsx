@@ -17,7 +17,11 @@ function MyDocument() {
           rel="stylesheet"
           href="https://jenil.github.io/bulmaswatch/darkly/bulmaswatch.min.css"
         />
-        <script src="https://kit.fontawesome.com/07818003cc.js" crossOrigin="anonymous" />
+        <script
+          async
+          src="https://kit.fontawesome.com/07818003cc.js"
+          crossOrigin="anonymous"
+        />
       </Head>
       <body>
         <Main />

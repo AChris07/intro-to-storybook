@@ -64,4 +64,6 @@ const Loader = forwardRef<Ref, Props>(({ isVisible }, ref) => (
   </div>
 ));
 
+Loader.displayName = 'Loader';
+
 export default Loader;
