@@ -41,11 +41,11 @@ const Home: NextPageWithLayout = () => {
               description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
             },
             {
-              href: '/sample',
+              href: '/reddit',
               img: 'https://picsum.photos/200/200',
               width: 200,
               height: 200,
-              title: 'Sample Project',
+              title: 'Reddit Demo',
               description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit.',
             },
           ]}

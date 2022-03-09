@@ -29,8 +29,8 @@ const Header: FunctionComponent<Props> = () => {
                   <Link href="/todo">
                     <a className="navbar-item">To-do List</a>
                   </Link>
-                  <Link href="/sample">
-                    <a className="navbar-item">Sample project</a>
+                  <Link href="/reddit">
+                    <a className="navbar-item">Reddit Demo</a>
                   </Link>
                 </div>
               </div>
