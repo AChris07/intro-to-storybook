@@ -1,6 +1,10 @@
 import styled from '@emotion/styled';
 
-export const HeroBannerContainer = styled('section')`
+type HeroBannerContainerProps = {
+  height: number;
+};
+
+export const HeroBannerContainer = styled.section<HeroBannerContainerProps>`
   position: relative;
   width: 100%;
   height: ${({ height }) => height}px;

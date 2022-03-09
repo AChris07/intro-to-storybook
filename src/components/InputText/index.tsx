@@ -1,4 +1,4 @@
-import React, { FunctionComponent } from 'react';
+import { ChangeEvent, KeyboardEvent, FunctionComponent } from 'react';
 import classNames from 'classnames';
 
 type Props = {
@@ -16,8 +16,9 @@ const InputText: FunctionComponent<Props> = ({
   placeholder,
   value,
 }) => {
-  const handleTextChange = (evt) => onChange(evt?.target?.value);
-  const handleTextKeypress = (evt) => {
+  const handleTextChange = (evt: ChangeEvent<HTMLInputElement>) =>
+    onChange(evt?.target?.value);
+  const handleTextKeypress = (evt: KeyboardEvent<HTMLInputElement>) => {
     if (evt?.key === 'Enter') onSubmit();
   };
 

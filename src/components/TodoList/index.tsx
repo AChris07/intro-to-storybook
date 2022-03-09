@@ -1,4 +1,4 @@
-import React, { FunctionComponent } from 'react';
+import React, { FunctionComponent, MouseEvent } from 'react';
 
 import { Todo } from 'src/contexts/todo';
 import { TodoListContainer, TodoContainer } from './styles';
@@ -24,13 +24,13 @@ const TodoElem: FunctionComponent<TodoProps> = ({
   onChangeStatus,
   onDelete,
 }) => {
-  const handleChangeStatus = (evt) => {
+  const handleChangeStatus = (evt: MouseEvent) => {
     evt.stopPropagation();
     const newStatus =
       status === TodoStatus.Active ? TodoStatus.Completed : TodoStatus.Active;
     onChangeStatus(id, newStatus);
   };
-  const handleDelete = (evt) => {
+  const handleDelete = (evt: MouseEvent) => {
     evt.stopPropagation();
     onDelete(id);
   };

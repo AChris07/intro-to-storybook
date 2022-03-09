@@ -11,7 +11,7 @@ import {
 type Props = {
   img: string;
   title: string;
-  subtitle: string;
+  subtitle?: string;
   height: number;
 };
 

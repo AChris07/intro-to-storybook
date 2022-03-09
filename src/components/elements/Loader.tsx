@@ -1,7 +1,11 @@
-import { FunctionComponent, forwardRef } from 'react';
+import { forwardRef } from 'react';
 import styled from '@emotion/styled';
 
-const LoaderContainer = styled.div`
+type LoaderContainerProps = {
+  isVisible: boolean;
+};
+
+const LoaderContainer = styled.div<LoaderContainerProps>`
   display: ${({ isVisible }) => (isVisible ? 'inline-block' : 'none')};
   position: relative;
   width: 80px;
@@ -49,7 +53,7 @@ type Props = {
 
 export type Ref = HTMLDivElement;
 
-const Loader: FunctionComponent<Props> = forwardRef<Ref, Props>(({ isVisible }, ref) => (
+const Loader = forwardRef<Ref, Props>(({ isVisible }, ref) => (
   <div ref={ref}>
     <LoaderContainer isVisible={isVisible}>
       <div></div>
