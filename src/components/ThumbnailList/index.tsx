@@ -10,7 +10,7 @@ import {
   ThumbnailButton,
 } from './styles';
 
-type Thumbnail = {
+export type Thumbnail = {
   href: string;
   img: string;
   width: number;
