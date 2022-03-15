@@ -1,0 +1,1697 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Storyshots Common/HeroBanner With Title 1`] = `
+<section
+  className="mb-6 css-1stua81"
+  height={400}
+>
+  <span
+    style={
+      Object {
+        "background": "none",
+        "border": 0,
+        "bottom": 0,
+        "boxSizing": "border-box",
+        "display": "block",
+        "height": "initial",
+        "left": 0,
+        "margin": 0,
+        "opacity": 1,
+        "overflow": "hidden",
+        "padding": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+        "width": "initial",
+      }
+    }
+  >
+    <img
+      data-nimg="fill"
+      decoding="async"
+      src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      style={
+        Object {
+          "border": "none",
+          "bottom": 0,
+          "boxSizing": "border-box",
+          "display": "block",
+          "height": 0,
+          "left": 0,
+          "margin": "auto",
+          "maxHeight": "100%",
+          "maxWidth": "100%",
+          "minHeight": "100%",
+          "minWidth": "100%",
+          "objectFit": undefined,
+          "objectPosition": undefined,
+          "padding": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+        }
+      }
+    />
+    <noscript>
+      <img
+        data-nimg="fill"
+        decoding="async"
+        loading="lazy"
+        src="https://picsum.photos/2000/400"
+        style={
+          Object {
+            "border": "none",
+            "bottom": 0,
+            "boxSizing": "border-box",
+            "display": "block",
+            "height": 0,
+            "left": 0,
+            "margin": "auto",
+            "maxHeight": "100%",
+            "maxWidth": "100%",
+            "minHeight": "100%",
+            "minWidth": "100%",
+            "objectFit": undefined,
+            "objectPosition": undefined,
+            "padding": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": 0,
+          }
+        }
+      />
+    </noscript>
+  </span>
+  <div
+    className="css-1sgbmxk"
+  >
+    <h1
+      className="title css-0"
+    >
+      Mock title
+    </h1>
+    <h2
+      className="subtitle css-0"
+    />
+  </div>
+</section>
+`;
+
+exports[`Storyshots Common/HeroBanner With Title And Subtitle 1`] = `
+<section
+  className="mb-6 css-1stua81"
+  height={400}
+>
+  <span
+    style={
+      Object {
+        "background": "none",
+        "border": 0,
+        "bottom": 0,
+        "boxSizing": "border-box",
+        "display": "block",
+        "height": "initial",
+        "left": 0,
+        "margin": 0,
+        "opacity": 1,
+        "overflow": "hidden",
+        "padding": 0,
+        "position": "absolute",
+        "right": 0,
+        "top": 0,
+        "width": "initial",
+      }
+    }
+  >
+    <img
+      data-nimg="fill"
+      decoding="async"
+      src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+      style={
+        Object {
+          "border": "none",
+          "bottom": 0,
+          "boxSizing": "border-box",
+          "display": "block",
+          "height": 0,
+          "left": 0,
+          "margin": "auto",
+          "maxHeight": "100%",
+          "maxWidth": "100%",
+          "minHeight": "100%",
+          "minWidth": "100%",
+          "objectFit": undefined,
+          "objectPosition": undefined,
+          "padding": 0,
+          "position": "absolute",
+          "right": 0,
+          "top": 0,
+          "width": 0,
+        }
+      }
+    />
+    <noscript>
+      <img
+        data-nimg="fill"
+        decoding="async"
+        loading="lazy"
+        src="https://picsum.photos/2000/400"
+        style={
+          Object {
+            "border": "none",
+            "bottom": 0,
+            "boxSizing": "border-box",
+            "display": "block",
+            "height": 0,
+            "left": 0,
+            "margin": "auto",
+            "maxHeight": "100%",
+            "maxWidth": "100%",
+            "minHeight": "100%",
+            "minWidth": "100%",
+            "objectFit": undefined,
+            "objectPosition": undefined,
+            "padding": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": 0,
+          }
+        }
+      />
+    </noscript>
+  </span>
+  <div
+    className="css-1sgbmxk"
+  >
+    <h1
+      className="title css-0"
+    >
+      Mock title
+    </h1>
+    <h2
+      className="subtitle css-0"
+    >
+      Mock subtitle
+    </h2>
+  </div>
+</section>
+`;
+
+exports[`Storyshots Common/IconButton Icon 1`] = `
+<button
+  className="button  css-67a2rx"
+  type="button"
+>
+  <span
+    className="icon"
+  >
+    <i
+      className="fas fa-times-circle"
+    />
+  </span>
+  <span>
+    Mock Text
+  </span>
+</button>
+`;
+
+exports[`Storyshots Common/IconButton Icon With Text 1`] = `
+<button
+  className="button  css-67a2rx"
+  type="button"
+>
+  <span
+    className="icon"
+  >
+    <i
+      className="fas fa-home"
+    />
+  </span>
+</button>
+`;
+
+exports[`Storyshots Common/IconButton Just Text 1`] = `
+<button
+  className="button  css-67a2rx"
+  type="button"
+>
+  <span>
+    Mock Text
+  </span>
+</button>
+`;
+
+exports[`Storyshots Common/InputText Default 1`] = `
+Array [
+  <input
+    autoComplete="off"
+    autoFocus={true}
+    className="input"
+    onChange={[Function]}
+    onKeyPress={[Function]}
+    type="text"
+    value=""
+  />,
+  <pre
+    style={
+      Object {
+        "marginTop": 10,
+      }
+    }
+  >
+    {
+  "value": ""
+}
+  </pre>,
+]
+`;
+
+exports[`Storyshots Common/InputText With Initial Value 1`] = `
+Array [
+  <input
+    autoComplete="off"
+    autoFocus={true}
+    className="input"
+    onChange={[Function]}
+    onKeyPress={[Function]}
+    placeholder="Type text here!"
+    type="text"
+    value="Mock Text"
+  />,
+  <pre
+    style={
+      Object {
+        "marginTop": 10,
+      }
+    }
+  >
+    {
+  "value": "Mock Text"
+}
+  </pre>,
+]
+`;
+
+exports[`Storyshots Common/InputText With Placeholder 1`] = `
+Array [
+  <input
+    autoComplete="off"
+    autoFocus={true}
+    className="input"
+    onChange={[Function]}
+    onKeyPress={[Function]}
+    placeholder="Type text here!"
+    type="text"
+    value=""
+  />,
+  <pre
+    style={
+      Object {
+        "marginTop": 10,
+      }
+    }
+  >
+    {
+  "value": ""
+}
+  </pre>,
+]
+`;
+
+exports[`Storyshots Common/Loader Not Visible 1`] = `
+<div>
+  <div
+    className="css-1v3hyuq"
+  >
+    <div />
+    <div />
+    <div />
+    <div />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Common/Loader Visible 1`] = `
+<div>
+  <div
+    className="css-io4flo"
+  >
+    <div />
+    <div />
+    <div />
+    <div />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Common/ThumbnailList Empty 1`] = `
+<div
+  className="columns mb-6 css-0"
+/>
+`;
+
+exports[`Storyshots Common/ThumbnailList With Content 1`] = `
+<div
+  className="columns mb-6 css-0"
+>
+  <section
+    className="column content css-1oskuwq"
+  >
+    <span
+      style={
+        Object {
+          "background": "none",
+          "border": 0,
+          "boxSizing": "border-box",
+          "display": "inline-block",
+          "height": 200,
+          "margin": 0,
+          "opacity": 1,
+          "overflow": "hidden",
+          "padding": 0,
+          "position": "relative",
+          "width": 200,
+        }
+      }
+    >
+      <img
+        data-nimg="fixed"
+        decoding="async"
+        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        style={
+          Object {
+            "border": "none",
+            "bottom": 0,
+            "boxSizing": "border-box",
+            "display": "block",
+            "height": 0,
+            "left": 0,
+            "margin": "auto",
+            "maxHeight": "100%",
+            "maxWidth": "100%",
+            "minHeight": "100%",
+            "minWidth": "100%",
+            "objectFit": undefined,
+            "objectPosition": undefined,
+            "padding": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": 0,
+          }
+        }
+      />
+      <noscript>
+        <img
+          data-nimg="fixed"
+          decoding="async"
+          loading="lazy"
+          src="https://picsum.photos/200/200"
+          style={
+            Object {
+              "border": "none",
+              "bottom": 0,
+              "boxSizing": "border-box",
+              "display": "block",
+              "height": 0,
+              "left": 0,
+              "margin": "auto",
+              "maxHeight": "100%",
+              "maxWidth": "100%",
+              "minHeight": "100%",
+              "minWidth": "100%",
+              "objectFit": undefined,
+              "objectPosition": undefined,
+              "padding": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+              "width": 0,
+            }
+          }
+        />
+      </noscript>
+    </span>
+    <h1
+      className="title css-0"
+    >
+      Thumbnail N.1
+    </h1>
+    <p
+      className="subtitle css-0"
+    >
+      Mock description N.1
+    </p>
+    <a
+      className="button is-primary css-0"
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+    >
+      See more
+    </a>
+  </section>
+  <section
+    className="column content css-1oskuwq"
+  >
+    <span
+      style={
+        Object {
+          "background": "none",
+          "border": 0,
+          "boxSizing": "border-box",
+          "display": "inline-block",
+          "height": 200,
+          "margin": 0,
+          "opacity": 1,
+          "overflow": "hidden",
+          "padding": 0,
+          "position": "relative",
+          "width": 200,
+        }
+      }
+    >
+      <img
+        data-nimg="fixed"
+        decoding="async"
+        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        style={
+          Object {
+            "border": "none",
+            "bottom": 0,
+            "boxSizing": "border-box",
+            "display": "block",
+            "height": 0,
+            "left": 0,
+            "margin": "auto",
+            "maxHeight": "100%",
+            "maxWidth": "100%",
+            "minHeight": "100%",
+            "minWidth": "100%",
+            "objectFit": undefined,
+            "objectPosition": undefined,
+            "padding": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": 0,
+          }
+        }
+      />
+      <noscript>
+        <img
+          data-nimg="fixed"
+          decoding="async"
+          loading="lazy"
+          src="https://picsum.photos/200/200"
+          style={
+            Object {
+              "border": "none",
+              "bottom": 0,
+              "boxSizing": "border-box",
+              "display": "block",
+              "height": 0,
+              "left": 0,
+              "margin": "auto",
+              "maxHeight": "100%",
+              "maxWidth": "100%",
+              "minHeight": "100%",
+              "minWidth": "100%",
+              "objectFit": undefined,
+              "objectPosition": undefined,
+              "padding": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+              "width": 0,
+            }
+          }
+        />
+      </noscript>
+    </span>
+    <h1
+      className="title css-0"
+    >
+      Thumbnail N.2
+    </h1>
+    <p
+      className="subtitle css-0"
+    >
+      Mock description N.2
+    </p>
+    <a
+      className="button is-primary css-0"
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+    >
+      See more
+    </a>
+  </section>
+  <section
+    className="column content css-1oskuwq"
+  >
+    <span
+      style={
+        Object {
+          "background": "none",
+          "border": 0,
+          "boxSizing": "border-box",
+          "display": "inline-block",
+          "height": 200,
+          "margin": 0,
+          "opacity": 1,
+          "overflow": "hidden",
+          "padding": 0,
+          "position": "relative",
+          "width": 200,
+        }
+      }
+    >
+      <img
+        data-nimg="fixed"
+        decoding="async"
+        src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+        style={
+          Object {
+            "border": "none",
+            "bottom": 0,
+            "boxSizing": "border-box",
+            "display": "block",
+            "height": 0,
+            "left": 0,
+            "margin": "auto",
+            "maxHeight": "100%",
+            "maxWidth": "100%",
+            "minHeight": "100%",
+            "minWidth": "100%",
+            "objectFit": undefined,
+            "objectPosition": undefined,
+            "padding": 0,
+            "position": "absolute",
+            "right": 0,
+            "top": 0,
+            "width": 0,
+          }
+        }
+      />
+      <noscript>
+        <img
+          data-nimg="fixed"
+          decoding="async"
+          loading="lazy"
+          src="https://picsum.photos/200/200"
+          style={
+            Object {
+              "border": "none",
+              "bottom": 0,
+              "boxSizing": "border-box",
+              "display": "block",
+              "height": 0,
+              "left": 0,
+              "margin": "auto",
+              "maxHeight": "100%",
+              "maxWidth": "100%",
+              "minHeight": "100%",
+              "minWidth": "100%",
+              "objectFit": undefined,
+              "objectPosition": undefined,
+              "padding": 0,
+              "position": "absolute",
+              "right": 0,
+              "top": 0,
+              "width": 0,
+            }
+          }
+        />
+      </noscript>
+    </span>
+    <h1
+      className="title css-0"
+    >
+      Thumbnail N.3
+    </h1>
+    <p
+      className="subtitle css-0"
+    >
+      Mock description N.3
+    </p>
+    <a
+      className="button is-primary css-0"
+      onClick={[Function]}
+      onMouseEnter={[Function]}
+    >
+      See more
+    </a>
+  </section>
+</div>
+`;
+
+exports[`Storyshots Common/UnreadIcon Default 1`] = `
+<span
+  className="icon has-text-info"
+>
+  <i
+    className="fas fa-circle"
+  />
+</span>
+`;
+
+exports[`Storyshots Layout/Footer Default 1`] = `
+<footer
+  className="footer"
+>
+  <div
+    className="content has-text-centered"
+  >
+    <p
+      className="css-0"
+    >
+      Built with 
+      <strong>
+        Bulma
+      </strong>
+       and 
+      <strong>
+        Next.js
+      </strong>
+      .
+    </p>
+    <div>
+      <div
+        className="css-1msoq5u"
+      >
+        <a
+          href="https://bulma.io/"
+        >
+          <span
+            style={
+              Object {
+                "background": "none",
+                "border": 0,
+                "boxSizing": "border-box",
+                "display": "inline-block",
+                "height": "initial",
+                "margin": 0,
+                "maxWidth": "100%",
+                "opacity": 1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "relative",
+                "width": "initial",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "background": "none",
+                  "border": 0,
+                  "boxSizing": "border-box",
+                  "display": "block",
+                  "height": "initial",
+                  "margin": 0,
+                  "maxWidth": "100%",
+                  "opacity": 1,
+                  "padding": 0,
+                  "width": "initial",
+                }
+              }
+            >
+              <img
+                alt=""
+                aria-hidden={true}
+                src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27120%27%20height=%2740%27/%3e"
+                style={
+                  Object {
+                    "background": "none",
+                    "border": 0,
+                    "display": "block",
+                    "height": "initial",
+                    "margin": 0,
+                    "maxWidth": "100%",
+                    "opacity": 1,
+                    "padding": 0,
+                    "width": "initial",
+                  }
+                }
+              />
+            </span>
+            <img
+              data-nimg="intrinsic"
+              decoding="async"
+              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+              style={
+                Object {
+                  "border": "none",
+                  "bottom": 0,
+                  "boxSizing": "border-box",
+                  "display": "block",
+                  "height": 0,
+                  "left": 0,
+                  "margin": "auto",
+                  "maxHeight": "100%",
+                  "maxWidth": "100%",
+                  "minHeight": "100%",
+                  "minWidth": "100%",
+                  "objectFit": undefined,
+                  "objectPosition": undefined,
+                  "padding": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "width": 0,
+                }
+              }
+            />
+            <noscript>
+              <img
+                data-nimg="intrinsic"
+                decoding="async"
+                loading="lazy"
+                src="/bulma.svg"
+                style={
+                  Object {
+                    "border": "none",
+                    "bottom": 0,
+                    "boxSizing": "border-box",
+                    "display": "block",
+                    "height": 0,
+                    "left": 0,
+                    "margin": "auto",
+                    "maxHeight": "100%",
+                    "maxWidth": "100%",
+                    "minHeight": "100%",
+                    "minWidth": "100%",
+                    "objectFit": undefined,
+                    "objectPosition": undefined,
+                    "padding": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                    "width": 0,
+                  }
+                }
+              />
+            </noscript>
+          </span>
+        </a>
+        <a
+          href="https://nextjs.org/"
+        >
+          <span
+            style={
+              Object {
+                "background": "none",
+                "border": 0,
+                "boxSizing": "border-box",
+                "display": "inline-block",
+                "height": "initial",
+                "margin": 0,
+                "maxWidth": "100%",
+                "opacity": 1,
+                "overflow": "hidden",
+                "padding": 0,
+                "position": "relative",
+                "width": "initial",
+              }
+            }
+          >
+            <span
+              style={
+                Object {
+                  "background": "none",
+                  "border": 0,
+                  "boxSizing": "border-box",
+                  "display": "block",
+                  "height": "initial",
+                  "margin": 0,
+                  "maxWidth": "100%",
+                  "opacity": 1,
+                  "padding": 0,
+                  "width": "initial",
+                }
+              }
+            >
+              <img
+                alt=""
+                aria-hidden={true}
+                src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%2780%27%20height=%2740%27/%3e"
+                style={
+                  Object {
+                    "background": "none",
+                    "border": 0,
+                    "display": "block",
+                    "height": "initial",
+                    "margin": 0,
+                    "maxWidth": "100%",
+                    "opacity": 1,
+                    "padding": 0,
+                    "width": "initial",
+                  }
+                }
+              />
+            </span>
+            <img
+              className="css-43zfjy"
+              data-nimg="intrinsic"
+              decoding="async"
+              src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+              style={
+                Object {
+                  "border": "none",
+                  "bottom": 0,
+                  "boxSizing": "border-box",
+                  "display": "block",
+                  "height": 0,
+                  "left": 0,
+                  "margin": "auto",
+                  "maxHeight": "100%",
+                  "maxWidth": "100%",
+                  "minHeight": "100%",
+                  "minWidth": "100%",
+                  "objectFit": undefined,
+                  "objectPosition": undefined,
+                  "padding": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "width": 0,
+                }
+              }
+            />
+            <noscript>
+              <img
+                className="css-43zfjy"
+                data-nimg="intrinsic"
+                decoding="async"
+                loading="lazy"
+                src="/nextjs.svg"
+                style={
+                  Object {
+                    "border": "none",
+                    "bottom": 0,
+                    "boxSizing": "border-box",
+                    "display": "block",
+                    "height": 0,
+                    "left": 0,
+                    "margin": "auto",
+                    "maxHeight": "100%",
+                    "maxWidth": "100%",
+                    "minHeight": "100%",
+                    "minWidth": "100%",
+                    "objectFit": undefined,
+                    "objectPosition": undefined,
+                    "padding": 0,
+                    "position": "absolute",
+                    "right": 0,
+                    "top": 0,
+                    "width": 0,
+                  }
+                }
+              />
+            </noscript>
+          </span>
+        </a>
+      </div>
+    </div>
+    <p
+      className="css-0"
+    >
+      Integrates 
+      <strong>
+        Storybook
+      </strong>
+      .
+    </p>
+    <p
+      className="css-0"
+    >
+      <a
+        href="https://storybook.js.org/"
+      >
+        <span
+          style={
+            Object {
+              "background": "none",
+              "border": 0,
+              "boxSizing": "border-box",
+              "display": "inline-block",
+              "height": "initial",
+              "margin": 0,
+              "maxWidth": "100%",
+              "opacity": 1,
+              "overflow": "hidden",
+              "padding": 0,
+              "position": "relative",
+              "width": "initial",
+            }
+          }
+        >
+          <span
+            style={
+              Object {
+                "background": "none",
+                "border": 0,
+                "boxSizing": "border-box",
+                "display": "block",
+                "height": "initial",
+                "margin": 0,
+                "maxWidth": "100%",
+                "opacity": 1,
+                "padding": 0,
+                "width": "initial",
+              }
+            }
+          >
+            <img
+              alt=""
+              aria-hidden={true}
+              src="data:image/svg+xml,%3csvg%20xmlns=%27http://www.w3.org/2000/svg%27%20version=%271.1%27%20width=%27160%27%20height=%2740%27/%3e"
+              style={
+                Object {
+                  "background": "none",
+                  "border": 0,
+                  "display": "block",
+                  "height": "initial",
+                  "margin": 0,
+                  "maxWidth": "100%",
+                  "opacity": 1,
+                  "padding": 0,
+                  "width": "initial",
+                }
+              }
+            />
+          </span>
+          <img
+            data-nimg="intrinsic"
+            decoding="async"
+            src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7"
+            style={
+              Object {
+                "border": "none",
+                "bottom": 0,
+                "boxSizing": "border-box",
+                "display": "block",
+                "height": 0,
+                "left": 0,
+                "margin": "auto",
+                "maxHeight": "100%",
+                "maxWidth": "100%",
+                "minHeight": "100%",
+                "minWidth": "100%",
+                "objectFit": undefined,
+                "objectPosition": undefined,
+                "padding": 0,
+                "position": "absolute",
+                "right": 0,
+                "top": 0,
+                "width": 0,
+              }
+            }
+          />
+          <noscript>
+            <img
+              data-nimg="intrinsic"
+              decoding="async"
+              loading="lazy"
+              src="/storybook.svg"
+              style={
+                Object {
+                  "border": "none",
+                  "bottom": 0,
+                  "boxSizing": "border-box",
+                  "display": "block",
+                  "height": 0,
+                  "left": 0,
+                  "margin": "auto",
+                  "maxHeight": "100%",
+                  "maxWidth": "100%",
+                  "minHeight": "100%",
+                  "minWidth": "100%",
+                  "objectFit": undefined,
+                  "objectPosition": undefined,
+                  "padding": 0,
+                  "position": "absolute",
+                  "right": 0,
+                  "top": 0,
+                  "width": 0,
+                }
+              }
+            />
+          </noscript>
+        </span>
+      </a>
+    </p>
+  </div>
+</footer>
+`;
+
+exports[`Storyshots Layout/Header Default 1`] = `
+<header>
+  <nav
+    className="navbar"
+  >
+    <div
+      className="container"
+    >
+      <div
+        className="navbar-brand"
+      >
+        <a
+          className="navbar-item"
+          href="/"
+          onClick={[Function]}
+          onMouseEnter={[Function]}
+        >
+          Intro to Storybook
+        </a>
+        <span
+          className="navbar-burger burger"
+        >
+          <span />
+          <span />
+          <span />
+        </span>
+      </div>
+      <div
+        className="navbar-menu"
+        id="navbarMenu"
+      >
+        <div
+          className="navbar-end"
+        >
+          <a
+            className="navbar-item is-active"
+            href="/"
+            onClick={[Function]}
+            onMouseEnter={[Function]}
+          >
+            Home
+          </a>
+          <div
+            className="navbar-item has-dropdown is-hoverable"
+          >
+            <a
+              className="navbar-link"
+            >
+              Projects
+            </a>
+            <div
+              className="navbar-dropdown"
+            >
+              <a
+                className="navbar-item"
+                href="/todo"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                To-do List
+              </a>
+              <a
+                className="navbar-item"
+                href="/reddit"
+                onClick={[Function]}
+                onMouseEnter={[Function]}
+              >
+                Reddit Demo
+              </a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </nav>
+</header>
+`;
+
+exports[`Storyshots Reddit/DetailsPost Selected Post 1`] = `
+<section
+  className="css-4gn0jz"
+>
+  <h3
+    className="css-1b6r2g5"
+  >
+    Selected Post
+  </h3>
+  <h2
+    className="css-9s9ecg"
+  >
+    Mock Author
+  </h2>
+  <img
+    alt=""
+    src="https://picsum.photos/200"
+  />
+  <h4
+    className="css-ld23cf"
+  >
+    Mock Post
+  </h4>
+</section>
+`;
+
+exports[`Storyshots Reddit/DetailsPost Without Selection 1`] = `
+<section
+  className="css-4gn0jz"
+>
+  <h3>
+    Please select a post
+  </h3>
+</section>
+`;
+
+exports[`Storyshots Reddit/PostList Empty State 1`] = `
+<ul
+  className="css-1emvm10"
+>
+  <li
+    className="css-lf1h8h"
+  >
+    <h3>
+      No posts available
+    </h3>
+  </li>
+</ul>
+`;
+
+exports[`Storyshots Reddit/PostList Loaded State 1`] = `
+<ul
+  className="css-1emvm10"
+>
+  <div>
+    <li
+      className="css-lf1h8h"
+      onClick={[Function]}
+    >
+      <header
+        className="columns is-desktop css-cssveg"
+      >
+        <div
+          className="column is-inline-flex is-align-items-center"
+        >
+          <span
+            className="icon has-text-info"
+          >
+            <i
+              className="fas fa-circle"
+            />
+          </span>
+          <h2
+            className="css-gina83"
+          >
+            Mock Author 1
+          </h2>
+        </div>
+        <h3
+          className="column css-1bnbm3b"
+        >
+          a year ago
+        </h3>
+      </header>
+      <section
+        className="columns is-desktop css-7guf3p"
+      >
+        <img
+          alt=""
+          className="column is-one-third css-5j5vrg"
+          src="https://picsum.photos/200"
+        />
+        <h4
+          className="column css-ld23cf"
+        >
+          Mock Post 1
+        </h4>
+      </section>
+      <footer
+        className="css-15867hm"
+      >
+        <button
+          className="button  css-67a2rx"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="icon"
+          >
+            <i
+              className="fas fa-times-circle"
+            />
+          </span>
+          <span>
+            Dismiss Post
+          </span>
+        </button>
+        <span
+          className="css-1t37k6"
+        >
+          100
+           comments
+        </span>
+      </footer>
+    </li>
+    <li
+      className="css-lf1h8h"
+      onClick={[Function]}
+    >
+      <header
+        className="columns is-desktop css-cssveg"
+      >
+        <div
+          className="column is-inline-flex is-align-items-center"
+        >
+          <span
+            className="icon has-text-info"
+          >
+            <i
+              className="fas fa-circle"
+            />
+          </span>
+          <h2
+            className="css-gina83"
+          >
+            Mock Author 2
+          </h2>
+        </div>
+        <h3
+          className="column css-1bnbm3b"
+        >
+          a year ago
+        </h3>
+      </header>
+      <section
+        className="columns is-desktop css-7guf3p"
+      >
+        <img
+          alt=""
+          className="column is-one-third css-5j5vrg"
+          src="https://picsum.photos/200"
+        />
+        <h4
+          className="column css-ld23cf"
+        >
+          Mock Post 2
+        </h4>
+      </section>
+      <footer
+        className="css-15867hm"
+      >
+        <button
+          className="button  css-67a2rx"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="icon"
+          >
+            <i
+              className="fas fa-times-circle"
+            />
+          </span>
+          <span>
+            Dismiss Post
+          </span>
+        </button>
+        <span
+          className="css-1t37k6"
+        >
+          200
+           comments
+        </span>
+      </footer>
+    </li>
+    <li
+      className="css-lf1h8h"
+      onClick={[Function]}
+    >
+      <header
+        className="columns is-desktop css-cssveg"
+      >
+        <div
+          className="column is-inline-flex is-align-items-center"
+        >
+          <span
+            className="icon has-text-info"
+          >
+            <i
+              className="fas fa-circle"
+            />
+          </span>
+          <h2
+            className="css-gina83"
+          >
+            Mock Author 3
+          </h2>
+        </div>
+        <h3
+          className="column css-1bnbm3b"
+        >
+          a year ago
+        </h3>
+      </header>
+      <section
+        className="columns is-desktop css-7guf3p"
+      >
+        <img
+          alt=""
+          className="column is-one-third css-5j5vrg"
+          src="https://picsum.photos/200"
+        />
+        <h4
+          className="column css-ld23cf"
+        >
+          Mock Post 3
+        </h4>
+      </section>
+      <footer
+        className="css-15867hm"
+      >
+        <button
+          className="button  css-67a2rx"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="icon"
+          >
+            <i
+              className="fas fa-times-circle"
+            />
+          </span>
+          <span>
+            Dismiss Post
+          </span>
+        </button>
+        <span
+          className="css-1t37k6"
+        >
+          300
+           comments
+        </span>
+      </footer>
+    </li>
+  </div>
+  <div>
+    <div
+      className="css-1v3hyuq"
+    >
+      <div />
+      <div />
+      <div />
+      <div />
+    </div>
+  </div>
+  <button
+    className="button is-fullwidth css-pmdw3o"
+    type="button"
+  >
+    <span>
+      Dismiss All
+    </span>
+  </button>
+</ul>
+`;
+
+exports[`Storyshots Reddit/PostList Loading State 1`] = `
+<ul
+  className="css-1emvm10"
+>
+  <div />
+  <div>
+    <div
+      className="css-io4flo"
+    >
+      <div />
+      <div />
+      <div />
+      <div />
+    </div>
+  </div>
+  <button
+    className="button is-fullwidth css-pmdw3o"
+    type="button"
+  >
+    <span>
+      Dismiss All
+    </span>
+  </button>
+</ul>
+`;
+
+exports[`Storyshots Reddit/PostList Read Post State 1`] = `
+<ul
+  className="css-1emvm10"
+>
+  <div>
+    <li
+      className="css-lf1h8h"
+      onClick={[Function]}
+    >
+      <header
+        className="columns is-desktop css-cssveg"
+      >
+        <div
+          className="column is-inline-flex is-align-items-center"
+        >
+          <span
+            className="icon has-text-info"
+          >
+            <i
+              className="fas fa-circle"
+            />
+          </span>
+          <h2
+            className="css-gina83"
+          >
+            Mock Author 1
+          </h2>
+        </div>
+        <h3
+          className="column css-1bnbm3b"
+        >
+          a year ago
+        </h3>
+      </header>
+      <section
+        className="columns is-desktop css-7guf3p"
+      >
+        <img
+          alt=""
+          className="column is-one-third css-5j5vrg"
+          src="https://picsum.photos/200"
+        />
+        <h4
+          className="column css-ld23cf"
+        >
+          Mock Post 1
+        </h4>
+      </section>
+      <footer
+        className="css-15867hm"
+      >
+        <button
+          className="button  css-67a2rx"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="icon"
+          >
+            <i
+              className="fas fa-times-circle"
+            />
+          </span>
+          <span>
+            Dismiss Post
+          </span>
+        </button>
+        <span
+          className="css-1t37k6"
+        >
+          100
+           comments
+        </span>
+      </footer>
+    </li>
+    <li
+      className="css-lf1h8h"
+      onClick={[Function]}
+    >
+      <header
+        className="columns is-desktop css-cssveg"
+      >
+        <div
+          className="column is-inline-flex is-align-items-center"
+        >
+          <span
+            className="icon has-text-info"
+          >
+            <i
+              className="fas fa-circle"
+            />
+          </span>
+          <h2
+            className="css-gina83"
+          >
+            Mock Author 2
+          </h2>
+        </div>
+        <h3
+          className="column css-1bnbm3b"
+        >
+          a year ago
+        </h3>
+      </header>
+      <section
+        className="columns is-desktop css-7guf3p"
+      >
+        <img
+          alt=""
+          className="column is-one-third css-5j5vrg"
+          src="https://picsum.photos/200"
+        />
+        <h4
+          className="column css-ld23cf"
+        >
+          Mock Post 2
+        </h4>
+      </section>
+      <footer
+        className="css-15867hm"
+      >
+        <button
+          className="button  css-67a2rx"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="icon"
+          >
+            <i
+              className="fas fa-times-circle"
+            />
+          </span>
+          <span>
+            Dismiss Post
+          </span>
+        </button>
+        <span
+          className="css-1t37k6"
+        >
+          200
+           comments
+        </span>
+      </footer>
+    </li>
+  </div>
+  <div>
+    <div
+      className="css-1v3hyuq"
+    >
+      <div />
+      <div />
+      <div />
+      <div />
+    </div>
+  </div>
+  <button
+    className="button is-fullwidth css-pmdw3o"
+    type="button"
+  >
+    <span>
+      Dismiss All
+    </span>
+  </button>
+</ul>
+`;
+
+exports[`Storyshots Todo/TodoList After Completing Items 1`] = `
+<div
+  className="css-0"
+>
+  <div
+    className="notification is-info css-16z5g4g"
+    onClick={[Function]}
+  >
+    To-Do Item N. 1
+    <button
+      className="delete"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="notification is-info css-1lcmbx"
+    onClick={[Function]}
+  >
+    To-Do Item N. 2
+    <button
+      className="delete"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="notification is-info css-16z5g4g"
+    onClick={[Function]}
+  >
+    To-Do Item N. 3
+    <button
+      className="delete"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="notification is-info css-1lcmbx"
+    onClick={[Function]}
+  >
+    To-Do Item N. 4
+    <button
+      className="delete"
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;
+
+exports[`Storyshots Todo/TodoList Empty 1`] = `
+<div
+  className="css-0"
+/>
+`;
+
+exports[`Storyshots Todo/TodoList With Active Content 1`] = `
+<div
+  className="css-0"
+>
+  <div
+    className="notification is-info css-16z5g4g"
+    onClick={[Function]}
+  >
+    To-Do Item N. 1
+    <button
+      className="delete"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="notification is-info css-16z5g4g"
+    onClick={[Function]}
+  >
+    To-Do Item N. 2
+    <button
+      className="delete"
+      onClick={[Function]}
+    />
+  </div>
+  <div
+    className="notification is-info css-16z5g4g"
+    onClick={[Function]}
+  >
+    To-Do Item N. 3
+    <button
+      className="delete"
+      onClick={[Function]}
+    />
+  </div>
+</div>
+`;
