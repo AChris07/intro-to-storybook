@@ -11,7 +11,7 @@ export default {
 const mockPost: Post = {
   id: `mock-id`,
   title: `Mock Post`,
-  thumbnail: 'https://picsum.photos/200',
+  thumbnail: 'https://picsum.photos/id/293/200',
   author: `Mock Author`,
   entryDate: 1619382797,
   numComments: 1337,

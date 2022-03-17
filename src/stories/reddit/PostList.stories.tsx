@@ -19,7 +19,7 @@ const generateMockPosts = (amount: number, isRead = false): Post[] =>
     (_, i): Post => ({
       id: `mock-id-${i + 1}`,
       title: `Mock Post ${i + 1}`,
-      thumbnail: 'https://picsum.photos/200',
+      thumbnail: 'https://picsum.photos/id/293/200',
       author: `Mock Author ${i + 1}`,
       entryDate: 1619382797,
       numComments: (i + 1) * 100,

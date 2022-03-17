@@ -58,7 +58,7 @@ exports[`Storyshots Common/HeroBanner With Title 1`] = `
         data-nimg="fill"
         decoding="async"
         loading="lazy"
-        src="https://picsum.photos/2000/400"
+        src="https://picsum.photos/id/271/2000/400"
         style={
           Object {
             "border": "none",
@@ -157,7 +157,7 @@ exports[`Storyshots Common/HeroBanner With Title And Subtitle 1`] = `
         data-nimg="fill"
         decoding="async"
         loading="lazy"
-        src="https://picsum.photos/2000/400"
+        src="https://picsum.photos/id/271/2000/400"
         style={
           Object {
             "border": "none",
@@ -409,7 +409,7 @@ exports[`Storyshots Common/ThumbnailList With Content 1`] = `
           data-nimg="fixed"
           decoding="async"
           loading="lazy"
-          src="https://picsum.photos/200/200"
+          src="https://picsum.photos/id/1061/200"
           style={
             Object {
               "border": "none",
@@ -505,7 +505,7 @@ exports[`Storyshots Common/ThumbnailList With Content 1`] = `
           data-nimg="fixed"
           decoding="async"
           loading="lazy"
-          src="https://picsum.photos/200/200"
+          src="https://picsum.photos/id/1061/200"
           style={
             Object {
               "border": "none",
@@ -601,7 +601,7 @@ exports[`Storyshots Common/ThumbnailList With Content 1`] = `
           data-nimg="fixed"
           decoding="async"
           loading="lazy"
-          src="https://picsum.photos/200/200"
+          src="https://picsum.photos/id/1061/200"
           style={
             Object {
               "border": "none",
@@ -1142,7 +1142,7 @@ exports[`Storyshots Reddit/DetailsPost Selected Post 1`] = `
   </h2>
   <img
     alt=""
-    src="https://picsum.photos/200"
+    src="https://picsum.photos/id/293/200"
   />
   <h4
     className="css-ld23cf"
@@ -1216,7 +1216,7 @@ exports[`Storyshots Reddit/PostList Loaded State 1`] = `
         <img
           alt=""
           className="column is-one-third css-5j5vrg"
-          src="https://picsum.photos/200"
+          src="https://picsum.photos/id/293/200"
         />
         <h4
           className="column css-ld23cf"
@@ -1286,7 +1286,7 @@ exports[`Storyshots Reddit/PostList Loaded State 1`] = `
         <img
           alt=""
           className="column is-one-third css-5j5vrg"
-          src="https://picsum.photos/200"
+          src="https://picsum.photos/id/293/200"
         />
         <h4
           className="column css-ld23cf"
@@ -1356,7 +1356,7 @@ exports[`Storyshots Reddit/PostList Loaded State 1`] = `
         <img
           alt=""
           className="column is-one-third css-5j5vrg"
-          src="https://picsum.photos/200"
+          src="https://picsum.photos/id/293/200"
         />
         <h4
           className="column css-ld23cf"
@@ -1454,13 +1454,6 @@ exports[`Storyshots Reddit/PostList Read Post State 1`] = `
         <div
           className="column is-inline-flex is-align-items-center"
         >
-          <span
-            className="icon has-text-info"
-          >
-            <i
-              className="fas fa-circle"
-            />
-          </span>
           <h2
             className="css-gina83"
           >
@@ -1479,7 +1472,7 @@ exports[`Storyshots Reddit/PostList Read Post State 1`] = `
         <img
           alt=""
           className="column is-one-third css-5j5vrg"
-          src="https://picsum.photos/200"
+          src="https://picsum.photos/id/293/200"
         />
         <h4
           className="column css-ld23cf"
@@ -1549,7 +1542,7 @@ exports[`Storyshots Reddit/PostList Read Post State 1`] = `
         <img
           alt=""
           className="column is-one-third css-5j5vrg"
-          src="https://picsum.photos/200"
+          src="https://picsum.photos/id/293/200"
         />
         <h4
           className="column css-ld23cf"
@@ -1580,6 +1573,76 @@ exports[`Storyshots Reddit/PostList Read Post State 1`] = `
           className="css-1t37k6"
         >
           200
+           comments
+        </span>
+      </footer>
+    </li>
+    <li
+      className="css-lf1h8h"
+      onClick={[Function]}
+    >
+      <header
+        className="columns is-desktop css-cssveg"
+      >
+        <div
+          className="column is-inline-flex is-align-items-center"
+        >
+          <span
+            className="icon has-text-info"
+          >
+            <i
+              className="fas fa-circle"
+            />
+          </span>
+          <h2
+            className="css-gina83"
+          >
+            Mock Author 3
+          </h2>
+        </div>
+        <h3
+          className="column css-1bnbm3b"
+        >
+          a year ago
+        </h3>
+      </header>
+      <section
+        className="columns is-desktop css-7guf3p"
+      >
+        <img
+          alt=""
+          className="column is-one-third css-5j5vrg"
+          src="https://picsum.photos/id/293/200"
+        />
+        <h4
+          className="column css-ld23cf"
+        >
+          Mock Post 3
+        </h4>
+      </section>
+      <footer
+        className="css-15867hm"
+      >
+        <button
+          className="button  css-67a2rx"
+          onClick={[Function]}
+          type="button"
+        >
+          <span
+            className="icon"
+          >
+            <i
+              className="fas fa-times-circle"
+            />
+          </span>
+          <span>
+            Dismiss Post
+          </span>
+        </button>
+        <span
+          className="css-1t37k6"
+        >
+          300
            comments
         </span>
       </footer>

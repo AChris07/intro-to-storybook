@@ -16,7 +16,7 @@ const generateMockThumbnails = (amount: number): Thumbnail[] =>
     { length: amount },
     (_, i): Thumbnail => ({
       href: `#${i + 1}`,
-      img: 'https://picsum.photos/200/200',
+      img: 'https://picsum.photos/id/1061/200',
       width: 200,
       height: 200,
       title: `Thumbnail N.${i + 1}`,
