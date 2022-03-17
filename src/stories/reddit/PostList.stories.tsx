@@ -50,5 +50,5 @@ LoadedState.args = {
 export const ReadPostState = Template.bind({});
 ReadPostState.args = {
   status: PostStatusEnum.IDLE,
-  posts: [...generateMockPosts(1, true), ...generateMockPosts(2)],
+  posts: [...generateMockPosts(1, true), ...generateMockPosts(3).slice(1)],
 };
